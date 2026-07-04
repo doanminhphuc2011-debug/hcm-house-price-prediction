@@ -8,7 +8,6 @@ venv/
 
 # Generated artifacts (regenerate with `python train.py`)
 models/*.pkl
-figures/*.png
 outputs/
 
 # OS
