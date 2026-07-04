@@ -1,9 +1,6 @@
 # HCM Housing Price Prediction
 
-Predicting residential property prices in Ho Chi Minh City from 24,323
-real-estate listings, using an ensemble machine-learning pipeline adapted
-from Truong et al. (2020), *"Housing Price Prediction via Improved Machine
-Learning Techniques"* (Procedia Computer Science, 174, 433–442).
+An end-to-end Machine Learning pipeline for predicting residential property prices in Ho Chi Minh City using ensemble regression techniques.
 
 Course project (AIL303m, FPT University) — refactored into a reusable
 codebase for portfolio purposes.
