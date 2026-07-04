@@ -10,8 +10,9 @@ prices in Ho Chi Minh City (HCMC) from 24,323 real-estate listings,
 adapted from Truong et al. (2020), *"Housing Price Prediction via Improved
 Machine Learning Techniques"* (Procedia Computer Science, 174, 433–442).
 
-Originally a coursework project (AIL303m, FPT University), refactored here
-into a modular, reusable codebase for portfolio purposes.
+Originally developed as part of the AIL303m course at FPT University, 
+this project has been significantly refactored into a modular 
+and reusable machine learning pipeline suitable for portfolio demonstration and further development.
 
 ## Introduction
 
